@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 
-.card-header{
+.header{
     display: flex;
     justify-content: center;
     align-items: center;
